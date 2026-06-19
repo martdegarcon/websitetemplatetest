@@ -1,0 +1,115 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  --token-65f7d412-ea73-45f7-91cd-0a64a2e777ba: #ff4500;
+}
+
+#__framer-badge-container,
+[href*="framer.link"],
+[href*="templifica.com"],
+[href*="framer.com"],
+[data-framer-name="Delete me!"],
+[name="Delete me!"] {
+  display: none !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  visibility: hidden !important;
+}
+
+a[href="https://x.com/bynneh"],
+a[href="https://www.instagram.com/"] {
+  display: none !important;
+}
+
+[data-framer-component-type="RichTextContainer"] {
+  overflow-wrap: anywhere;
+}
+
+.framer-pjz3qu,
+.framer-1qzjqre,
+.framer-1p44ppv,
+.framer-1rwf4d9 {
+  color: transparent !important;
+}
+
+.framer-pjz3qu *,
+.framer-1qzjqre *,
+.framer-1p44ppv *,
+.framer-1rwf4d9 * {
+  color: transparent !important;
+}
+
+.framer-pjz3qu,
+.framer-1qzjqre,
+.framer-1p44ppv,
+.framer-1rwf4d9 {
+  position: relative !important;
+}
+
+.framer-pjz3qu > *,
+.framer-18g4sh3,
+.framer-62fH7,
+.framer-vsspgz,
+.framer-1qzjqre,
+.framer-1uwsdn2,
+.framer-d0c9sh,
+.framer-7374qv,
+.framer-10zojy0 {
+  display: none !important;
+}
+
+.framer-pjz3qu {
+  display: none !important;
+}
+
+.framer-pjz3qu::after,
+.framer-1qzjqre::after,
+.framer-1p44ppv::after,
+.framer-1rwf4d9::after {
+  color: currentColor;
+  display: block;
+  inset: 0;
+  position: absolute;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  z-index: 3;
+}
+
+.framer-pjz3qu::after {
+  color: #fff;
+  content: "Проектируем сайты,\A которые превращают\A посетителей в деньги";
+  font-size: clamp(24px, 4vw, 56px);
+  font-weight: 700;
+  line-height: 0.95;
+}
+
+.framer-1qzjqre::after {
+  color: #fff;
+  content: "Дизайн, продающие тексты и аналитика — под одну задачу: чтобы из вашего текущего трафика покупало больше людей. Если конверсия не вырастет — дорабатываем бесплатно.";
+}
+
+.framer-1p44ppv::after {
+  color: #fff;
+  content: "Свободные слоты:";
+}
+
+.framer-1rwf4d9::after {
+  color: #0b0b0b;
+  content: "которые превращают посетителей в заявки, покупки и понятный рост выручки.";
+}
+
+.ws-hero-title {
+  color: #fff;
+  font-size: clamp(28px, 4.2vw, 60px);
+  font-weight: 700;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 0.95;
+  max-width: 640px;
+  position: absolute;
+  text-transform: uppercase;
+  top: 62px;
+  z-index: 5;
+}
